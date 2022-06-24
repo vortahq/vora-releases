@@ -1,1 +1,1 @@
-# vora-releases
+# vorta-releases
